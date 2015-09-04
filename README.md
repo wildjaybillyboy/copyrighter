@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/wildjaybillyboy/copyrighter.svg?branch=master)](https://travis-ci.org/wildjaybillyboy/copyrighter)
 ### Welcome to Copyrighter!
 This is a personal learning exercise and a small tool that I hope will help myself and others to mark up meteor built webpages with copyrights.
 ### Installation
