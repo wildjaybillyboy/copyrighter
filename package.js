@@ -22,5 +22,8 @@ Package.onUse(function(api) {
 Package.onTest(function(api) {
   api.use('tinytest');
   api.use('nwdev:copyrighter');
+  api.addFiles('cTemplate.html', 'client');
   api.addFiles('copyrighter-tests.js');
+  api.addFiles('copyrighter.css', 'client');
+  api.export('setCopyright', 'server');
 });
