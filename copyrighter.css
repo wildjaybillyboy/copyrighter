@@ -1,0 +1,14 @@
+.small-copyright {
+    font-size: x-small;
+    font-style: italic;
+}
+
+.medium-copyright {
+    font-size: small;
+    font-style: italic;
+}
+
+.large-copyright {
+    font-size: medium;
+    font-style: italic;
+}
